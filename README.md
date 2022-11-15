@@ -74,5 +74,5 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_KAIZEN_CODES_BLOG }}'
           channelId: live
-          projectId: kaizen-codes-blog
+          projectId: web-dev-portal-1
 ```
